@@ -4,7 +4,9 @@ title:  "Getting Familiar with DIME Models."
 tags: [Introduction, Dime]
 last_updated: May 3, 2021
 sidebar: blog_sidebar
-summary: Brief description of DIME Models.
+feature_text: |
+  ## Summary
+  Brief description of DIME Models.
 permalink: get-familiar-dime.html
 datatable: true
 toc: true

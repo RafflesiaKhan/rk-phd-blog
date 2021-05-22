@@ -4,7 +4,9 @@ title:  "Getting Familiar with DIME Environment."
 tags: [Introduction, Dime]
 last_updated: May 3, 2021
 sidebar: blog_sidebar
-summary: Brief description of DIME Environment.
+feature_text: |
+  ## Summary
+  Brief description of DIME Environment.
 permalink: dime-environment.html
 datatable: true
 toc: true

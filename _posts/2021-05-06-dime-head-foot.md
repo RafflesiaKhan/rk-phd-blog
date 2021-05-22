@@ -4,7 +4,9 @@ title:  "Creating Header and Footer."
 tags: [Introduction, Dime]
 last_updated: May 3, 2021
 sidebar: blog_sidebar
-summary: How to add header and footer to your dime application.
+feature_text: |
+  ## Summary
+  How to add header and footer to your dime application.
 permalink: dime-head-foot.html
 datatable: true
 toc: true
@@ -52,3 +54,33 @@ Steps:
 Please watch this video for better understanding of header & footer creating with dime.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ge9Ryupq_kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Adding Custom Header to Home Page Only
+
+At the home page the header should so different structure, at it's public area. So here we are discussing about a custom header. 
+  - We can create custom header for any page, here we are adding header to the home page.
+  - Fo that delete the Header gui from public home page and create a new header to the 'header' template. 
+
+{% include image.html file="customhead.png" caption="An example custom header for home page & the general header" %}
+
+<br>
+#### Adding Image/Gif
+
+Adding image/gif file to DIME application includes the following steps
+
+ - Add a Row or Column to GUI body as layout for placing the image
+ - Drag Image content from palette to layout
+ - Go to Image properties
+ - Set Path of the image e.h., asset/image.png
+ {% include note.html content="image should be placed at project's asset folder" %} 
+<br>
+{% include image.html file="Dimege.PNG" caption="An example custom header for home page & the general header" %}
+
+## Video Tutorial 
+
+Complete direction of the above discussion
+
+{% include video.html id="wetniHXL-do" title="Siteleaf tutorial video" caption="How can we create custom header for home page and Add image in DIME application." %}
+
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/wetniHXL-do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+

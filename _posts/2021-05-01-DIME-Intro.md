@@ -4,7 +4,9 @@ title:  "DIME Introduction!"
 tags: [Introduction, Dime, Installation]
 last_updated: May 1, 2021
 sidebar: blog_sidebar
-summary: This brief introduc will help you get started quickly with DIME. The other topics in this help provide additional information and detail about working with other aspects of DIME.
+feature_text: |
+  ## Summary
+  This brief introduc will help you get started quickly with DIME. The other topics in this help provide additional information and detail about working with other aspects of DIME.
 permalink: DIME-Intro.html
 datatable: true
 toc: true

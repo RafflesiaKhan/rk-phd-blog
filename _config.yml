@@ -16,7 +16,7 @@ exclude:
 - CONTRIBUTING.md
 - screenshot.png
 - LICENSE
-- CNAME
+#- CNAME
 - Gemfile
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
@@ -33,6 +33,7 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-toc
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -60,6 +61,7 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
+
 # 5. Collections
 collections:
   posts:
@@ -68,7 +70,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "https://picsum.photos/id/143/3600/2385"
 
 # 6. Jekyll collections settings
 defaults:

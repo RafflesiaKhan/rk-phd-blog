@@ -4,7 +4,9 @@ title:  "Test DIME new application"
 tags: [Introduction, Dime, Run]
 last_updated: May 2, 2021
 sidebar: blog_sidebar
-summary: This describes 'How to create and run a new dime application'
+feature_text: |
+  ## Summary
+  This describes 'How to create and run a new dime application'
 permalink: new-app-run.html
 datatable: true
 toc: true

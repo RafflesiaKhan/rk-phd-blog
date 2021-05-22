@@ -10,7 +10,13 @@ layout: default
 
     <h1>{{ page.title }}</h1>
     {% include post-meta.html %}
-    {{ content }}
+    {{ content | toc }}
+
+    
+    <!--I have added these 3 lines for table of conyent show in posts/blog
+    {% unless page.toc == false %}
+    {% include toc.html %}
+    {% endunless %}-->
 
     {% include nav-share.html %}
 
