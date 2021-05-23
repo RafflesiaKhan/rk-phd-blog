@@ -98,9 +98,9 @@ title: "RK's Blog" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "I have just started writing blogs on GitHub, and I am using this template called Alembic. It's is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. In this Blog site I'll 
 try sharing my learning through my phd. " # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+url: "http://rafflesia130233.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: "/"
+repo: "https://github.com/Rafflesia130233/rk-phd-blog"
 email: "rafflesia.khan@yahoo.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
