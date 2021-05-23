@@ -40,15 +40,14 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: Rafflesia130233 # jekyll-seo-tag > Owners twitter username
+author: Rafflesia130233 # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Rafflesia Khan # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/KhanRafflesia
+    - https://www.linkedin.com/in/rafflesia-khan-164b0781?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BNXeIhVvRK2OXy7RDus3xA%3D%3D
+    - https://github.com/Rafflesia130233
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -59,7 +58,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Europe/Dublin # Timezone for blog posts and alike
 
 
 # 5. Collections
@@ -97,11 +96,12 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "RK's Blog" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "I have just started writing blogs on GitHub, and I am using this template called Alembic. It's is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. In this Blog site I'll 
+try sharing my learning through my phd. " # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+email: "rafflesia.khan@yahoo.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
@@ -123,8 +123,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
+#- title: Elements
+#  url: /elements/
 - title: Blog
   url: /blog/
 - title: Categories
@@ -139,15 +139,15 @@ navigation_footer:
   #url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+  Twitter: https://twitter.com/KhanRafflesia
+  LinkedIn:  https://www.linkedin.com/in/rafflesia-khan-164b0781?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BNXeIhVvRK2OXy7RDus3xA%3D%3D
+  GitHub: https://github.com/Rafflesia130233
+ # link: https://darn.es
+ # RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
-  facebook: "#3B5998"
+  GitHub: "#3B5998"
   Email: true
 
 ##05bf85;

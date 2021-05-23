@@ -64,7 +64,7 @@ div#toc >ul::before {
 .header,
 .footer {
   .nav {
-    text-align: right;
+    text-align: justify;
   }
   .logo {
     @include flex(0 0 auto);
@@ -91,7 +91,7 @@ div#toc >ul::before {
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
-  text-align: center;
+  text-align: justify;
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
@@ -278,7 +278,7 @@ img {
   }
   &--right {
     float: right;
-    text-align: right;
+    text-align: justify;
     padding-left: .8rem;
   }
   &--center {
@@ -345,6 +345,7 @@ select {
   transition: color .1s, background-color .1s, border .1s;
   line-height: inherit;
   border: none;
+  text-align: justify;
   box-shadow: none;
   border-radius: 0;
   -webkit-appearance: none;
