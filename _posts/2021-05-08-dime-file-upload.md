@@ -8,7 +8,6 @@ feature_text: |
   ## Summary
   How to create process, gui and link for uploading a file.
 permalink: dime-file-upload.html
-datatable: true
 toc: true
 categories: About Dime
 ---

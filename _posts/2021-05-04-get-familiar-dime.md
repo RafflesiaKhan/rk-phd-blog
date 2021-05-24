@@ -8,7 +8,6 @@ feature_text: |
   ## Summary
   Brief description of DIME Models.
 permalink: get-familiar-dime.html
-datatable: true
 toc: true
 categories: about toto dime
 ---

@@ -8,7 +8,6 @@ feature_text: |
   ## Summary
   This brief introduc will help you get started quickly with DIME. The other topics in this help provide additional information and detail about working with other aspects of DIME.
 permalink: DIME-Intro.html
-datatable: true
 toc: true
 categories: about dime
 ---

@@ -8,7 +8,6 @@ feature_text: |
   ## Summary
   Creation and use of links and branches in DIME.
 permalink: dime-branches-links.html
-datatable: true
 toc: true
 categories: About Dime
 ---

@@ -8,7 +8,6 @@ feature_text: |
   ## Summary
   Brief description of DIME Environment.
 permalink: dime-environment.html
-datatable: true
 toc: true
 categories: about toto dime
 ---

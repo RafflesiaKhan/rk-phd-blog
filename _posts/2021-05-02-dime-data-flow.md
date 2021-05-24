@@ -8,7 +8,6 @@ feature_text: |
   ## Summary
   Brief description of DIME Data types.How we can user them to store and view data.
 permalink: dime-data-flow.html
-datatable: true
 toc: true
 categories: about type dime
 ---

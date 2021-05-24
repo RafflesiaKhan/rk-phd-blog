@@ -8,7 +8,6 @@ feature_text: |
   ## Summary
   How to add header and footer to your dime application.
 permalink: dime-head-foot.html
-datatable: true
 toc: true
 categories: About Todo Dime
 ---

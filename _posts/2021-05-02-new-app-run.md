@@ -8,7 +8,6 @@ feature_text: |
   ## Summary
   This describes 'How to create and run a new dime application'
 permalink: new-app-run.html
-datatable: true
 toc: true
 categories: about dime
 ---
